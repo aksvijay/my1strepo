@@ -1,1 +1,4 @@
-this is bash file.....
+date
+time
+#Ashish Kumar Singh
+@run.sh
